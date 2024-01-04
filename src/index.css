@@ -61,10 +61,10 @@ h1{
   transform: rotateY(0);
 }
 .card.correct{
-  background-color: #65e469;
+  background-color: #30f537;
 }
 .card.wrong{
-  background-color: #fd245a;
+  background-color: #ff2222;
 }
 .card.active img{
   transform: scale(1);
